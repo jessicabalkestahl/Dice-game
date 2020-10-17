@@ -1,0 +1,49 @@
+
+
+.col-6 {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #faebea !important;
+  height: 100%;
+}
+
+h1 {
+  margin: 30px;
+  text-align: center;
+  padding: 60px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  text-shadow: 2px 0 #747577;
+  font-size: 8rem !important;
+  color: #59a09e;
+}
+
+p {
+  font-size: 2rem;
+  color: #43aa8b;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.dice {
+  width: 35%;
+}
+
+.jess-avatar {
+  width: 3%;
+}
+
+.footer-text {
+  color: #4d908e;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+footer {
+  margin-top: 8%;
+  text-align: center;
+}
